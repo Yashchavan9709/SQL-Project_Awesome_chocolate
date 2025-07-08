@@ -1,2 +1,2 @@
 # SQL-Project_Awesome_chocolate
-Utilized joins, sub-queries and CTE's to simplify complex queries involving multiple tables, And use of database tool MySQL to simplify processes.
+This project involves a comprehensive analysis of Awesome Chocolate data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
